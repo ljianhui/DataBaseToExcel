@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.431,C:\Users\Administrator\Desktop\Projects\Unit1.h=C:\Users\Administrator\Desktop\Projects\NewTabForm.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.108,=C:\Users\Administrator\Desktop\Projects\ConnectForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.630,D:\MyProgram\DBLogInOut\TCalculator.cpp=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.074,C:\Users\Administrator\Documents\RAD Studio\Projects\MainForm.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.114,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.371,=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.088,=C:\Users\Administrator\Desktop\Projects\Module\NewTabForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.074,C:\Users\Administrator\Documents\RAD Studio\Projects\MainForm.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.344,C:\Users\Administrator\Desktop\Projects3\Public\NormalFunction.cpp=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.473,=C:\Users\Administrator\Desktop\Projects3\Public\NormalFunction.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.157,D:\MyProgram\DBLogInOut\TCalculator.h=D:\MyProgram\DBLogInOut\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.755,C:\Users\Administrator\Documents\RAD Studio\Projects\DBLogInOutForm.cpp=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.599,C:\Users\Administrator\Documents\RAD Studio\Projects\DBLogInOutPrj.cbproj=C:\Users\Administrator\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.157,D:\MyProgram\DBLogInOut\TCalculator.cpp=D:\MyProgram\DBLogInOut\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.074,C:\Users\Administrator\Documents\RAD Studio\Projects\MainForm.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.755,C:\Users\Administrator\Documents\RAD Studio\Projects\DBLogInOutForm.dfm=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.788,=C:\Users\Administrator\Desktop\Projects\Module\ConnectForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.716,=C:\Users\Administrator\Desktop\Projects2\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.755,C:\Users\Administrator\Documents\RAD Studio\Projects\DBLogInOutForm.h=C:\Users\Administrator\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.431,C:\Users\Administrator\Desktop\Projects\Unit1.dfm=C:\Users\Administrator\Desktop\Projects\NewTabForm.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.871,=C:\Users\Administrator\Desktop\Projects\Module\DBLogInOutForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.998,=C:\Users\Administrator\Desktop\Projects\Module\LoadInForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.062,C:\Users\Administrator\Desktop\Projects2\Unit1.cpp=C:\Users\Administrator\Desktop\Projects2\Public\ReadWriteTxt.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.029,=C:\Users\Administrator\Desktop\Projects\Public\SQL_EXCEL.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.062,C:\Users\Administrator\Desktop\Projects2\Unit1.h=C:\Users\Administrator\Desktop\Projects2\Public\ReadWriteTxt.h</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.847,=D:\MyProgram\DBLogInOut\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.847,D:\MyProgram\DBLogInOut\DataBaseToExcel.cbproj=D:\MyProgram\DBLogInOut\DBLogInOutPrj.cbproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.670,=C:\Users\Administrator\Desktop\Projects\LoadInForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.431,C:\Users\Administrator\Desktop\Projects\Unit1.cpp=C:\Users\Administrator\Desktop\Projects\NewTabForm.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.943,=C:\Users\Administrator\Desktop\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.414,=D:\MyProgram\DBLogInOut\Unit1.cpp</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.189,=C:\Users\Administrator\Desktop\Projects3_2\Public\NormalFunction.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Module"/>
+    <File Path="Module\ConnectForm.cpp"/>
+    <File Path="Module\ConnectForm.cpp"/>
+    <File Path="Module\ConnectForm.dfm"/>
+    <File Path="Module\ConnectForm.h"/>
+    <File Path="Module\DBLogInOutForm.cpp"/>
+    <File Path="Module\DBLogInOutForm.cpp"/>
+    <File Path="Module\DBLogInOutForm.dfm"/>
+    <File Path="Module\DBLogInOutForm.h"/>
+    <File Path="Module\LoadInForm.cpp"/>
+    <File Path="Module\LoadInForm.cpp"/>
+    <File Path="Module\LoadInForm.dfm"/>
+    <File Path="Module\LoadInForm.h"/>
+    <File Path="Module\NewTabForm.cpp"/>
+    <File Path="Module\NewTabForm.cpp"/>
+    <File Path="Module\NewTabForm.dfm"/>
+    <File Path="Module\NewTabForm.h"/>
+    <File Path="Public"/>
+    <File Path="Public\NormalFunction.cpp"/>
+    <File Path="Public\NormalFunction.cpp"/>
+    <File Path="Public\NormalFunction.h"/>
+    <File Path="Public\ReadWriteTxt.cpp"/>
+    <File Path="Public\ReadWriteTxt.cpp"/>
+    <File Path="Public\ReadWriteTxt.h"/>
+    <File Path="Public\SQL_EXCEL.cpp"/>
+    <File Path="Public\SQL_EXCEL.cpp"/>
+    <File Path="Public\SQL_EXCEL.h"/>
+    <File Path="MainForm.cpp"/>
+    <File Path="MainForm.cpp"/>
+    <File Path="MainForm.dfm"/>
+    <File Path="MainForm.h"/>
+    <File Path="DataBaseToExcel.cpp"/>
+  </ProjectSortOrder>
+</BorlandProject>
